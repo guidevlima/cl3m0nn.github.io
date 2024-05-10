@@ -94,6 +94,10 @@ body {
     color: #FB6F92;
 }
 
+.c-quiz .c-quiz__parabens {
+    width: 100%;
+}
+
 .c-quiz .c-quiz__parabens img {
     animation: pulse 2.5s linear infinite;
 }
